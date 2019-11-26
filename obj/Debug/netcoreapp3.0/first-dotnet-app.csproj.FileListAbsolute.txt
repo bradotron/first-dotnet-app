@@ -1,0 +1,11 @@
+C:\Users\brad\Projects\first-dotnet-app\bin\Debug\netcoreapp3.0\first-dotnet-app.exe
+C:\Users\brad\Projects\first-dotnet-app\bin\Debug\netcoreapp3.0\first-dotnet-app.deps.json
+C:\Users\brad\Projects\first-dotnet-app\bin\Debug\netcoreapp3.0\first-dotnet-app.runtimeconfig.json
+C:\Users\brad\Projects\first-dotnet-app\bin\Debug\netcoreapp3.0\first-dotnet-app.runtimeconfig.dev.json
+C:\Users\brad\Projects\first-dotnet-app\bin\Debug\netcoreapp3.0\first-dotnet-app.dll
+C:\Users\brad\Projects\first-dotnet-app\bin\Debug\netcoreapp3.0\first-dotnet-app.pdb
+C:\Users\brad\Projects\first-dotnet-app\obj\Debug\netcoreapp3.0\first-dotnet-app.csprojAssemblyReference.cache
+C:\Users\brad\Projects\first-dotnet-app\obj\Debug\netcoreapp3.0\first-dotnet-app.AssemblyInfoInputs.cache
+C:\Users\brad\Projects\first-dotnet-app\obj\Debug\netcoreapp3.0\first-dotnet-app.AssemblyInfo.cs
+C:\Users\brad\Projects\first-dotnet-app\obj\Debug\netcoreapp3.0\first-dotnet-app.dll
+C:\Users\brad\Projects\first-dotnet-app\obj\Debug\netcoreapp3.0\first-dotnet-app.pdb

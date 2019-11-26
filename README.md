@@ -2,8 +2,8 @@
 
 # Prerequisites
 Install these
-- https://dotnet.microsoft.com/download
-- C# extension for VS Code https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
+- [.NET Core SDK](https://dotnet.microsoft.com/download)
+- [C# extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) for VS Code 
 
 # Create a "Hello World" app
 1. Initialize a C# project:
@@ -11,4 +11,8 @@ Install these
   ```
   dotnet new console
   ```
-  
+2. When opening the project folder in VS Code select "Yes" when prompted to add required assets.
+3. Run the app:
+  ```
+  dotnet run
+  ```
